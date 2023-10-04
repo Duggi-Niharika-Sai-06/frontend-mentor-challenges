@@ -32,9 +32,10 @@ main {
     padding: 0px 0px;
 }
 
-.text h2 {
+.text h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
+    font-size: 1.3rem;
 }
 
 .text p {
