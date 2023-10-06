@@ -144,3 +144,16 @@ h1:hover,
 span:hover {
     color: var(--hoover-cyan);
 }
+
+.attribution{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+color: grey;
+}
+
+.attribution a{
+    color:var(--text-blue);
+}
