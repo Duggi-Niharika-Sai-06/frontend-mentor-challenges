@@ -142,7 +142,7 @@ span {
 
 h1:hover,
 span:hover {
-    color: var(--text-blue);
+    color: var(--hoover-cyan);
 }
 
 .attribution{
