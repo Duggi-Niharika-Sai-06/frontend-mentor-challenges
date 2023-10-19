@@ -47,8 +47,8 @@ In this project, I learned how to:
 
 I would like to thank the people and resources that helped me create this QR code component. My interest in web development began when I saw a friend working on a project with HTML and CSS. Their work inspired me to explore web development.
 
-Completing the responsive web design course on FreeCodeCamp was a critical step in my learning process. It provided me with a solid foundation in HTML and CSS, which enabled me to confidently undertake this project.
+Completing the responsive web design course on [FreeCodeCamp](https://www.freecodecamp.org/riptidecoding) was a critical step in my learning process. It provided me with a solid foundation in HTML and CSS, which enabled me to confidently undertake this project.
 
-The discovery of Frontend Mentor was a pivotal moment in my journey. I would like to extend my heartfelt appreciation to the communities on Frontend Mentor, CodePen, GitHub, and various forums. Your contributions, discussions, and code snippets were invaluable. Finally, I would like to acknowledge the instructors and instructional materials on Frontend Mentor. This project would not have been possible without your direction, from the project specifications to the GitHub publication. 
+The discovery of Frontend Mentor was a pivotal moment in my journey. I would like to extend my heartfelt appreciation to the communities on Frontend Mentor, [CodePen](https://codepen.io/), GitHub, and various forums. Your contributions, discussions, and code snippets were invaluable. Finally, I would like to acknowledge the instructors and instructional materials on Frontend Mentor. This project would not have been possible without your direction, from the project specifications to the GitHub publication. 
 
 This QR code component represents the beginning of my web development journey, and I am deeply grateful for the support, knowledge, and inspiration I have received along the way. Thank you all for being a part of this exciting adventure.
