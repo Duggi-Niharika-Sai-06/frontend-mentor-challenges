@@ -48,4 +48,4 @@ Through this project, I learned and applied:
 
 ## 🙏 Acknowledgments
 
-Big shoutout to Frontend Mentor for sparking inspiration for this project. Your challenges keep us creative and engaged. And, thanks to Daily Dev Tips for the insightful guide on CSS Offset background-position.
+Big shoutout to Frontend Mentor for sparking inspiration for this project. Your challenges keep us creative and engaged. And, thanks to [Daily Dev Tips](https://daily-dev-tips.com/) for the insightful guide on CSS Offset background-position.
