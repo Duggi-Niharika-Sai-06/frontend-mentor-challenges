@@ -1,0 +1,58 @@
+/* Set the font and background for the whole page */
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+}
+
+/* Center and limit the width of the main content */
+main {
+    max-width: 300px;
+    margin: auto;
+}
+
+/* Style the card container */
+.card {
+    background-color: hsl(0, 0%, 100%);
+    padding: 17px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 5px 10px 20px rgba(0,0,0,.1);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 11px;
+}
+
+.text {
+    padding: 0px 0px;
+}
+
+.text h1 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.text p {
+    color: hsl(220, 15%, 55%);
+    padding: 0px 5px;
+    font-weight: 400;
+}
+
+/* Style the attribution section at the bottom */
+.attribution {
+    text-align: center;
+    font-size: .8rem;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
