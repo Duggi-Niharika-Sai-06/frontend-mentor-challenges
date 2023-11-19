@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge](https://www.frontendment
 ### Screenshot
 
 ![Desktop Design](../../qr-code-component/design/desktop-design.png)
-![Mobile Design](design/mobile-design.png)
+![Mobile Design](../../qr-code-component/design/mobile-design.png)
 
 ### Links
 
