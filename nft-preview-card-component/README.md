@@ -7,7 +7,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Links
 
 - [Solution](https://www.frontendmentor.io/solutions/-nft-preview-card-component-flexbox-css-transitions-HgZFs7FGH0) - Check out my solution on Frontend Mentor.
-- [Live Site](https://lisztomania23.github.io/NFT-preview-card-component-Frontend-Mentor/) - Explore the live version of this project to experience the NFT card in action.
+- [Live Site](https://lisztomania23.github.io/frontend-mentor-challenges/nft-preview-card-component/) - Explore the live version of this project to experience the NFT card in action.
 
 ## Features
 

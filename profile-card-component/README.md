@@ -11,7 +11,7 @@
 
 ## 🌐 Links
 - [Solution](https://www.frontendmentor.io/solutions/profile-card-flexbox-layout-and-transformation-MfFAbItr9J) - Check out my solution on Frontend Mentor.
-- [Live Site](https://lisztomania23.github.io/Profile-card-component-Frontend-Mentor/) - Explore the live site to see the Profile Card Component in action.
+- [Live Site](https://lisztomania23.github.io/frontend-mentor-challenges/profile-card-component/) - Explore the live site to see the Profile Card Component in action.
 
 
 ## 💼 Features

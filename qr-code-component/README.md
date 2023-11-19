@@ -24,8 +24,7 @@ This is a solution to the [QR code component challenge](https://www.frontendment
 ### Links
 
 - [Challenge Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-E7F_bd4Soq) - QR Code Component using Flexbox
-- [Solution Repository](https://github.com/lisztomania23/QR-code-component-Frontend-Mentor/tree/main) - The GitHub repository for this project.
-- [Live Demo](https://lisztomania23.github.io/QR-code-component-Frontend-Mentor/) - See the live demo of the QR code component.
+- [Live Demo](https://lisztomania23.github.io/frontend-mentor-challenges/qr-code-component/) - See the live demo of the QR code component.
 
 ## My Process
 
