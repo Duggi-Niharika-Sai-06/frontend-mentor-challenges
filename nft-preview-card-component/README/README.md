@@ -1,4 +1,5 @@
 <h1>NFT Preview Card Component</h1>
+<div>&nbsp;</div>
 
 ![NFT Preview Card alt="background image by Freepik"](../../nft-preview-card-component/design/desktop-preview.jpg)
 
